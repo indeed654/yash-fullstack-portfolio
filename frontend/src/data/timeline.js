@@ -1,0 +1,48 @@
+export const timelineEvents = [
+  {
+    id: 1,
+    year: '2024',
+    title: 'B.Tech CSE (IoT) - 3rd Year',
+    description: 'Pursuing B.Tech Computer Science with IoT specialization at Abdul Kalam Technical University. CGPA 9.2/10. Leading AI/ML club projects.',
+    color: '#00F5FF',
+    icon: '🎓',
+    tags: ['AKTU', 'IoT', 'AI/ML', 'Leadership'],
+  },
+  {
+    id: 2,
+    year: '2023',
+    title: 'Smart Home Automation',
+    description: 'Developed full-stack IoT + AI home stack system with facial recognition and predictive automation.',
+    color: '#FF6B00',
+    icon: '🏠',
+    tags: ['Python', 'PyTorch', 'IoT', 'OpenCV'],
+  },
+  {
+    id: 3,
+    year: '2023',
+    title: 'AI Resume Analyzer Launch',
+    description: 'Created NLP-powered resume analysis tool deployed with 500+ users. Achieved 92% accuracy in job matching.',
+    color: '#3B82F6',
+    icon: '📄',
+    tags: ['NLP', 'FastAPI', 'React', 'spaCy'],
+  },
+  {
+    id: 4,
+    year: '2023-2024',
+    title: 'Decentralized IP System',
+    description: 'Built Ethereum blockchain solution for IP protection with IPFS storage and NFT certificates.',
+    color: '#8B5CF6',
+    icon: '🔗',
+    tags: ['Solidity', 'IPFS', 'Web3', 'React'],
+  },
+  {
+    id: 5,
+    year: '2022',
+    title: 'ML Research Contributor',
+    description: 'Contributed to open source ML projects. 500+ GitHub contributions.',
+    color: '#10B981',
+    icon: '⭐',
+    tags: ['Open Source', 'GitHub', 'ML Research'],
+  },
+]
+
